@@ -80,26 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  name             : "Deepa Tilwani"
+  avatar           : "/images/deepa_github.jpg"
+  bio              : "Graduate Research Assistant@ AI Institute University of South Carolina  "
+  location         : "Columbia, South Carolina, US"
+  email            : "dtilwani@mailbox.sc.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:dtilwani@mailbox.sc.edu
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/deepa-tilwani-b758551a0/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/manasgaur90"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+      #url: "https://www.facebook.com/kiml2020/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Deepa-Tilwani"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
