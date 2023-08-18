@@ -89,15 +89,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dtilwani@mailbox.sc.edu
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/deepa-tilwani-b758551a0/"
-    #- label: "Twitter"
-     # icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/manasgaur90"
-    #- label: "Facebook"
-     # icon: "fab fa-fw fa-facebook-square"
-      #url: "https://www.facebook.com/kiml2020/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Deepa-Tilwani"
@@ -106,14 +97,14 @@ author:
       # url: "https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/deepa-tilwani-b758551a0/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
