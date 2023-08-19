@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://deepa-tilwani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Deepa-Tilwani/deepa-tilwani.github.io"
-teaser                   : "/images/deepa_github.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/deepa_github.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepa Tilwani"
-  avatar           : "/images/deepa_github.jpg"
+  avatar           : "images/deepa_github.jpg"
   bio              : "Graduate Research Assistant@ AI Institute University of South Carolina  "
   location         : "Columbia, South Carolina, US"
   email            : "dtilwani@mailbox.sc.edu"
