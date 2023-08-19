@@ -3,6 +3,12 @@ main:
 
   - title: "Introduction"
     url: /introduction/
+
+  - title: "Awards"
+    url: /awards/   
+
+  - title: "Experience"
+    url: /internships/    
   
   - title: "Publications"
     url: /publications/
