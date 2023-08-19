@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://deepa-tilwani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Deepa-Tilwani/deepa-tilwani.github.io"
-teaser                   : "images/deepa_github.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "deepa_github.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -85,24 +85,17 @@ author:
   bio              : "Graduate Research Assistant@ AI Institute University of South Carolina  "
   location         : "Columbia, South Carolina, US"
   email            : "dtilwani@mailbox.sc.edu"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dtilwani@mailbox.sc.edu
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Deepa-Tilwani"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="
+
+  github           : https://github.com/Deepa-Tilwani
+  
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/deepa-tilwani-b758551a0/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-0154-8946"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  instagram        : "https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="
   tumblr           :
   twitter          : 
   vine             :
@@ -110,6 +103,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  googlescholar    : "https://scholar.google.com/citations?user=jpS1zA4AAAAJ&hl=en#d=gs_hdr_drw&t=1692408251421"
+
 
 
 # Reading Files
