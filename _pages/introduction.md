@@ -24,7 +24,6 @@ I'm broadly interested in probabilistic modeling, analysis and inference of EEG 
 Other then work, I enjoy <a href ="https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="><u>cooking</u></a> and exploring new places! 
 								<br/>
 
-
 <h2 style="font-family:verdana;"><b>Research Interests</b></h2>
 <ul>
 <li>Dynamical Casual Modelling </li>
