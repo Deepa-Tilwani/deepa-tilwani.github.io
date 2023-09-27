@@ -24,17 +24,19 @@ I'm broadly interested in probabilistic modeling, analysis and inference of EEG 
 Other then work, I enjoy <a href ="https://instagram.com/food_full_living?igshid=ZjA0NjI3M2I="><u>cooking</u></a> and exploring new places! 
 								<br/>
 
-<h2 style="font-family:verdana;"><b>Research Interests</b></h2>
-<ul>
-<li>Dynamical Casual Modelling </li>
-<li>Neurosymbolic AI</li>
-<li>Knowledge Infuse Learning</li>
-<li>Neruroscience Analysis </li>
-</ul> 
 
 
 <h2 style="font-family:verdana;"><b>Quick Link</b></h2>
 <ul>
 <li><a href=https://github.com/Deepa-Tilwani/deepa-tilwani.github.io/blob/21660d63b9688b06952a269179291d8879d4cb57/Resume_Deepa-1.pdf><b>CV</b></a>
 <li><a href=https://scholar.google.com/citations?user=jpS1zA4AAAAJ&hl=en><b>Google Scholar Profile</b></a></li>
+</ul> 
+
+
+<h2 style="font-family:verdana;"><b>Research Interests</b></h2>
+<ul>
+<li>Dynamical Casual Modelling </li>
+<li>Neurosymbolic AI</li>
+<li>Knowledge Infuse Learning</li>
+<li>Neruroscience Analysis </li>
 </ul> 
