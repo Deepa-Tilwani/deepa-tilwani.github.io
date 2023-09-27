@@ -28,6 +28,11 @@ Other then work, I enjoy <a href ="https://instagram.com/food_full_living?igshid
 
 <h2 style="font-family:verdana;"><b>Research Interests</b></h2>
 
+Dynamical Casual Modelling 
+Neurosymbolic AI
+Knowledge Infuse Learning
+Neruroscience Analysis 
+
 
 <br>
 
