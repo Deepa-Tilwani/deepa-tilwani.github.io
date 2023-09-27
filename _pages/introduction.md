@@ -29,7 +29,7 @@ Other then work, I enjoy <a href ="https://instagram.com/food_full_living?igshid
 <ul>
 <li>Dynamical Casual Modelling </li>
 <li>Neurosymbolic AI</li>
-<li>Knowledge Infuse Learning</li><
+<li>Knowledge Infuse Learning</li>
 <li>Neruroscience Analysis </li>
 </ul> 
 
