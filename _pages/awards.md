@@ -3,7 +3,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-* 2024 2024 EMNLP Diversity and Inclusion Travel Award ($1000).
+* 2024 EMNLP Diversity and Inclusion Travel Award ($1000).
 * 2023 Trainee Best Research Presentation Winner ($100) in the South Carolina Autism and Neurodevelopmental Disorders Consortium (SCAND) Symposium.
 * 2023 Research Symposium Third Place Poster Award ($200) at, College of Engineering and Computing, University of South Carolina.
 * Sept 2021 Jayana Clerk Fellowship, ($15000) For supporting my stay at AIISC as a Visiting Intern, Columbia SC
