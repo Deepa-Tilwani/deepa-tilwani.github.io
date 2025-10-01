@@ -3,6 +3,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Recipient of the 2025 University Travel Award ($500) for attendance at the International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI' 2025).
 * 2025 AAAI-25 Student Scholarship Travel Award ($1000).
 * 2024 EMNLP Diversity and Inclusion Travel Award ($1000).
 * 2023 Trainee Best Research Presentation Winner ($100) in the South Carolina Autism and Neurodevelopmental Disorders Consortium (SCAND) Symposium.
